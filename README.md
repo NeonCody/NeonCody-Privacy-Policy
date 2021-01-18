@@ -1,4 +1,4 @@
-# Privacy Policy
+# NeonCody Privacy Policy
 
 This document entails the privacy policy and agreement that you accept when adding any of jagrosh's bots to a server, or as a member of such a server. This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
 
